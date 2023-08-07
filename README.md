@@ -15,6 +15,7 @@ _`.editorconfig`, `.gitattributes`, `.gitignore`, `.stylelintrc`, `.travis.yml`,
 ---
 
 [Обзор проекта](https://up.htmlacademy.ru/profession/frontender-lite/2/lite-adaptive/2/project/cat-energy#review)
+
 [Техническое задание](TZ.txt)
 ---
 
